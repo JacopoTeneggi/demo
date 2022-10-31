@@ -1,0 +1,13 @@
+{
+    "train_batch_size": 1024,
+    "optimizer": {
+        "type": "Adam",
+        "params": {
+            "lr": 0.00001,
+            "betas": [
+                0.8,
+                0.9
+            ]
+        }
+    }
+}
